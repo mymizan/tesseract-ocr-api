@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytesseract
+pillow
+ocrmypdf
+python-multipart
+pdfminer.six
